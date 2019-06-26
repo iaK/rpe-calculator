@@ -1,29 +1,12 @@
-# rpe
+# Rpe calculator
 
-## Project setup
-```
-yarn install
-```
+A utility for calculating weights for powerlifters in swedish.
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+Working example [here](https://github.com/iak/lala)
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+Built using Vue & Vue cli.
 
-### Run your tests
+To run yourself, simply clone repo and run
+```bash
+& npm run serve
 ```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
