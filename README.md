@@ -2,7 +2,7 @@
 
 A utility for calculating weights for powerlifters in swedish.
 
-Working example [here](https://fervent-bhaskara-502a7e.netlify.com/)
+Working example [here](https://rpe-502a7e.netlify.com/)
 
 Built using Vue & Vue cli.
 
